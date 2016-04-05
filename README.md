@@ -19,9 +19,9 @@ Notification:
 
 2- My program tries to pick up tweets.txt from tweet_input folder and will put the output.txt on tweet_output.
 
-3- sunning the run_tests causes some problem to me!
+3- running the run_tests causes some problem to me!
 
-4- easily just download my project and just run the exe file on run folder. Do not forgot to put your files on input path.
+4- easily just download my project and just run the InsightDataScience.exe file from src/Run folder. Do not forgot to put your files on input path.
 
 5- if you want to see my project on Visual Studio and run it, you need NewtonSoft.Json which is a dll file and you can easily download it by NuGet.
 
