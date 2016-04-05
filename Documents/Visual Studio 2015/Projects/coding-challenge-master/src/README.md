@@ -1,9 +1,10 @@
 # Insight_DataScience-Project
 Clean Tweet text and calculate tweet degrees
-1- please put your input files at this path: ..\coding-challenge-master\tweet_input\tweet.txt
-2- you can find the output on this path:..\coding-challenge-master\tweet_output\ft1.txt and tf2.txt
-3- you can run the program directly from this path: ..\\coding-challenge-master\src\Run\InsightDataScience.exe
-4- you can open the project and build and if you want change the input and output path on TextExtraction.cs class
+1- please download the whole of the project then copy it to src folder.
+2- please put your input files at this path: ..\coding-challenge-master\tweet_input\tweet.txt
+3- you can find the output on this path:..\coding-challenge-master\tweet_output\ft1.txt and tf2.txt
+4- you can run the program directly from this path: ..\\coding-challenge-master\src\Run\InsightDataScience.exe
+5- you can open the project and build and if you want change the input and output path on TextExtraction.cs class
 
 
 Notification:
